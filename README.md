@@ -1,6 +1,9 @@
 # SASEUL Whitepaper
 
-## Artifriends inc.
+The whitepaper is a formal document of SASEUL project, designed by Jungwoo Lee from Artifriends inc.
+
+## Usage
+You can read the latest version of SASEUL whitepaer as a PDF at https://github.com/saseul/whitepaper/blob/master/SASEUL%20Whitepaper.pdf.
 
 ### Disclaimer
 
